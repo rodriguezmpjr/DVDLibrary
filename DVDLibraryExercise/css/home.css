@@ -1,0 +1,16 @@
+.container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+th,
+#contentRows,
+#searchContentRows {
+  text-align: center;
+}
+
+#search-form input,
+#search-form select {
+  width: 100%;
+}
